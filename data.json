@@ -1,6 +1,6 @@
 [
     {
-        "name": "John",
+        "program": "NeoVim",
         "age": 30,
         "city": "New York"
     },
