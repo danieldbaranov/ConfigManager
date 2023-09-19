@@ -1,12 +1,17 @@
 [
     {
         "program": "NeoVim",
-        "age": 30,
-        "city": "New York"
+        "folder": "nvim",
+	"linux?": true, 
+	"windows?": true,
+        "linuxDir": "~/.config/",
+	"windowsDir": ""
     },
     {
-        "name": "Alice",
-        "age": 25,
-        "city": "Los Angeles"
+        "program": "Sway",
+        "folder": "sway",
+        "linux?": true,
+	"windows?": false,
+	"linuxDir": "~/.config/"
     }
 ]
