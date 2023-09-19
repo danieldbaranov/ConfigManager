@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< Updated upstream
         "program": "NeoVim",
         "folder": "nvim",
 	"linux?": true, 
@@ -13,5 +14,20 @@
         "linux?": true,
 	"windows?": false,
 	"linuxDir": "~/.config/"
+=======
+        "name": "John",
+        "age": 30,
+        "city": "New York",
+	"selected": 0
+    },
+    {
+        "name": "Alice",
+        "age": 25,
+        "city": "Los Angeles",
+	"selected": 0
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
     }
 ]
