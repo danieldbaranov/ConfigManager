@@ -1,0 +1,10 @@
+2023-09-25 14:22:34.544 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-25 14:22:34.544 [info] Auto Sync is enabled.
+2023-09-25 14:22:34.544 [info] Auto Sync: Suspended until auth token is available.
+2023-09-25 14:22:34.857 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/extensions
+2023-09-25 14:22:35.003 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/globalState
+2023-09-25 14:22:35.013 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/keybindings
+2023-09-25 14:22:35.014 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/profiles
+2023-09-25 14:22:35.015 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/settings
+2023-09-25 14:22:35.015 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/snippets
+2023-09-25 14:22:35.016 [info] Deleting non existing profile from backup /home/daniel/.config/VSCodium/User/sync/tasks

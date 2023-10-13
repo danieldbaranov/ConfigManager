@@ -1,0 +1,24 @@
+2023-09-25 15:06:05.277 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 15:06:05.295 [info] Looking for git repository
+2023-09-25 15:06:05.295 [info] Found 0 repositories during activation
+2023-09-25 15:06:05.295 [info] Registering git provider
+2023-09-25 15:38:56.027 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 15:38:56.070 [info] Looking for git repository
+2023-09-25 15:38:56.070 [info] Found 0 repositories during activation
+2023-09-25 15:38:56.070 [info] Registering git provider
+2023-09-25 16:44:07.474 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 16:44:07.609 [info] Looking for git repository
+2023-09-25 16:44:07.609 [info] Found 0 repositories during activation
+2023-09-25 16:44:07.610 [info] Registering git provider
+2023-09-25 16:52:37.394 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 16:52:38.308 [info] Looking for git repository
+2023-09-25 16:52:38.308 [info] Found 0 repositories during activation
+2023-09-25 16:52:38.309 [info] Registering git provider
+2023-09-25 16:54:19.606 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 16:54:20.643 [info] Looking for git repository
+2023-09-25 16:54:20.643 [info] Found 0 repositories during activation
+2023-09-25 16:54:20.643 [info] Registering git provider
+2023-09-25 16:57:37.274 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 16:57:37.367 [info] Looking for git repository
+2023-09-25 16:57:37.367 [info] Found 0 repositories during activation
+2023-09-25 16:57:37.367 [info] Registering git provider

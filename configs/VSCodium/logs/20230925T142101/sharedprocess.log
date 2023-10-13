@@ -1,0 +1,48 @@
+2023-09-25 14:21:45.017 [info] Getting Manifest... vscodevim.vim
+2023-09-25 14:21:45.018 [info] Getting Manifest... ms-vscode.powershell
+2023-09-25 14:21:45.018 [info] Getting Manifest... github.copilot
+2023-09-25 14:21:45.019 [info] Getting Manifest... github.copilot-chat
+2023-09-25 14:21:45.019 [info] Getting Manifest... github.vscode-pull-request-github
+2023-09-25 14:21:45.019 [info] Getting Manifest... aaron-bond.better-comments
+2023-09-25 14:21:45.075 [info] Installing extension: ms-vscode.powershell
+2023-09-25 14:21:45.075 [info] Installing the extension without checking dependencies and pack ms-vscode.powershell
+2023-09-25 14:21:45.075 [info] Installing extension: github.copilot
+2023-09-25 14:21:45.075 [info] Installing the extension without checking dependencies and pack github.copilot
+2023-09-25 14:21:45.075 [info] Installing extension: vscodevim.vim
+2023-09-25 14:21:45.075 [info] Installing the extension without checking dependencies and pack vscodevim.vim
+2023-09-25 14:21:45.075 [info] Installing extension: github.vscode-pull-request-github
+2023-09-25 14:21:45.076 [info] Installing the extension without checking dependencies and pack github.vscode-pull-request-github
+2023-09-25 14:21:45.076 [info] Installing extension: github.copilot-chat
+2023-09-25 14:21:45.076 [info] Installing the extension without checking dependencies and pack github.copilot-chat
+2023-09-25 14:21:45.076 [info] Installing extension: aaron-bond.better-comments
+2023-09-25 14:21:45.076 [info] Installing the extension without checking dependencies and pack aaron-bond.better-comments
+2023-09-25 14:21:45.527 [info] Extension signature verification is not done: vscodevim.vim
+2023-09-25 14:21:45.569 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/vscodevim.vim-1.26.0: vscodevim.vim
+2023-09-25 14:21:45.572 [info] Renamed to /home/daniel/.vscode-oss/extensions/vscodevim.vim-1.26.0
+2023-09-25 14:21:45.574 [info] Extracting extension completed. vscodevim.vim
+2023-09-25 14:21:45.580 [info] Extension installed successfully: vscodevim.vim
+2023-09-25 14:21:45.707 [info] Extension signature verification is not done: github.vscode-pull-request-github
+2023-09-25 14:21:45.745 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/github.vscode-pull-request-github-0.72.0: github.vscode-pull-request-github
+2023-09-25 14:21:45.748 [info] Renamed to /home/daniel/.vscode-oss/extensions/github.vscode-pull-request-github-0.72.0
+2023-09-25 14:21:45.757 [info] Extracting extension completed. github.vscode-pull-request-github
+2023-09-25 14:21:45.760 [info] Extension installed successfully: github.vscode-pull-request-github
+2023-09-25 14:21:45.902 [info] Extension signature verification is not done: aaron-bond.better-comments
+2023-09-25 14:21:45.902 [info] Extension signature verification is not done: github.copilot-chat
+2023-09-25 14:21:45.924 [info] Extension signature verification is not done: github.copilot
+2023-09-25 14:21:45.931 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/aaron-bond.better-comments-3.0.2: aaron-bond.better-comments
+2023-09-25 14:21:45.933 [info] Renamed to /home/daniel/.vscode-oss/extensions/aaron-bond.better-comments-3.0.2
+2023-09-25 14:21:45.934 [info] Extracting extension completed. aaron-bond.better-comments
+2023-09-25 14:21:45.938 [info] Extension installed successfully: aaron-bond.better-comments
+2023-09-25 14:21:46.016 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1: github.copilot-chat
+2023-09-25 14:21:46.018 [info] Renamed to /home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1
+2023-09-25 14:21:46.019 [info] Extracting extension completed. github.copilot-chat
+2023-09-25 14:21:46.023 [info] Extension installed successfully: github.copilot-chat
+2023-09-25 14:21:46.066 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/github.copilot-1.115.430: github.copilot
+2023-09-25 14:21:46.068 [info] Renamed to /home/daniel/.vscode-oss/extensions/github.copilot-1.115.430
+2023-09-25 14:21:46.069 [info] Extracting extension completed. github.copilot
+2023-09-25 14:21:46.072 [info] Extension installed successfully: github.copilot
+2023-09-25 14:21:47.140 [info] Extension signature verification is not done: ms-vscode.powershell
+2023-09-25 14:21:47.896 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/ms-vscode.powershell-2023.6.0: ms-vscode.powershell
+2023-09-25 14:21:47.903 [info] Renamed to /home/daniel/.vscode-oss/extensions/ms-vscode.powershell-2023.6.0
+2023-09-25 14:21:47.904 [info] Extracting extension completed. ms-vscode.powershell
+2023-09-25 14:21:47.911 [info] Extension installed successfully: ms-vscode.powershell

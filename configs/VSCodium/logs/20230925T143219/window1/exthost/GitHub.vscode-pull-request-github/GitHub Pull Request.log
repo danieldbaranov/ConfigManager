@@ -1,0 +1,4 @@
+2023-09-25 14:32:21.753 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 14:32:21.801 [info] Looking for git repository
+2023-09-25 14:32:21.801 [info] Found 0 repositories during activation
+2023-09-25 14:32:21.801 [info] Registering git provider

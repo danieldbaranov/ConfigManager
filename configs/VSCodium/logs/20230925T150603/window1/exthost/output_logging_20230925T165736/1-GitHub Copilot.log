@@ -1,0 +1,4 @@
+[INFO] [ghostText] [2023-09-25T20:59:02.963Z] Cancelled after extractPrompt
+[INFO] [default] [2023-09-25T20:59:03.130Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex
+[INFO] [ghostText] [2023-09-25T20:59:03.655Z] Cancelled during debounce
+[INFO] [ghostText] [2023-09-25T20:59:03.756Z] Cancelled by contextual filter

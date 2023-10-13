@@ -1,0 +1,80 @@
+2023-09-25 14:21:02.031 [info] Using settings sync service https://vscode-sync.trafficmanager.net/
+2023-09-25 14:21:02.031 [info] Auto Sync is disabled.
+2023-09-25 14:21:43.569 [info] Sync started.
+2023-09-25 14:21:43.781 [info] Did reset the local sync state.
+2023-09-25 14:21:43.792 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:43.793 [info] Settings: Last sync data state does not exist.
+2023-09-25 14:21:43.850 [info] Settings: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:43.851 [info] Settings: Last sync data state does not exist.
+2023-09-25 14:21:43.933 [info] Keybindings: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:43.933 [info] Keybindings: Last sync data state does not exist.
+2023-09-25 14:21:43.998 [info] Snippets: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:43.999 [info] Snippets: Last sync data state does not exist.
+2023-09-25 14:21:44.035 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.035 [info] GlobalState: Last sync data state does not exist.
+2023-09-25 14:21:44.055 [info] Tasks: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.056 [info] Tasks: Last sync data state does not exist.
+2023-09-25 14:21:44.119 [info] GlobalState: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.119 [info] GlobalState: Last sync data state does not exist.
+2023-09-25 14:21:44.235 [info] Extensions: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.235 [info] Extensions: Last sync data state does not exist.
+2023-09-25 14:21:44.433 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.433 [info] Profiles: Last sync data state does not exist.
+2023-09-25 14:21:44.501 [info] Profiles: Migrating last sync user data. Resource does not exist.
+2023-09-25 14:21:44.501 [info] Profiles: Last sync data state does not exist.
+2023-09-25 14:21:44.517 [info] Settings: Updated local settings
+2023-09-25 14:21:44.522 [info] Settings: Updated last synchronized settings
+2023-09-25 14:21:44.523 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-25 14:21:44.526 [info] Keybindings: Updated last synchronized keybindings
+2023-09-25 14:21:44.526 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-25 14:21:44.529 [info] Snippets: Updated last synchronized snippets
+2023-09-25 14:21:44.529 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-25 14:21:44.531 [info] Tasks: Updated last synchronized tasks
+2023-09-25 14:21:44.537 [info] GlobalState: Updated global state ["commandPalette.mru.cache","commandPalette.mru.counter","cpp.1.lastSessionDate","cpp.1.sessionCount","fileBasedRecommendations/promptedFileExtensions","fileBasedRecommendations/promptedRecommendations","github-Lemonshine1","hasNotifiedOfSettingsAutosave","java.2.lastSessionDate","java.2.sessionCount","javascript.1.editedCount","javascript.1.editedDate","javascript.1.lastSessionDate","javascript.1.sessionCount","memento/workbench.editor.keybindings","nps/isCandidate","nps/lastSessionDate","nps/sessionCount","nps/skipVersion","terminal.integrated.showTerminalConfigPrompt","typescript.1.lastSessionDate","typescript.1.sessionCount","workbench.panel.repl.hidden","workbench.telemetryOptOutShown","workbench.view.debug.state.hidden","workbench.view.extension.github-pull-requests.state.hidden","workbench.view.extensions.state.hidden","workbench.view.sync.state.hidden","workbench.welcomePage.walkthroughMetadata","extensionTips/promptedExecutableTips","remote.explorerType","workbench.view.remote.state.hidden","workbench.welcomePage.hiddenCategories","javascript.1.isCandidate","javascript.1.skipVersion","workbench.view.extension.github-pull-request.state.hidden","workbench.sideBar.position","workbench.activityBar.hidden","workbench.statusBar.hidden","workbench.panel.chatSidebar.copilot.hidden","ces/skipSurvey","workbench.view.extension.PowerShell.state.hidden","memento/gettingStartedService","workbench.activity.pinnedViewlets2","workbench.explorer.views.state.hidden","workbench.panel.pinnedPanels","workbench.statusbar.hidden"]
+2023-09-25 14:21:44.537 [info] GlobalState: Updated local ui state
+2023-09-25 14:21:44.698 [info] GlobalState: Updated remote ui state. Added: ~remote.forwardedPortsContainer.hidden.
+2023-09-25 14:21:44.707 [info] GlobalState: Updated last synchronized ui state
+2023-09-25 14:21:47.912 [info] Extensions: Installed extension. vscodevim.vim 1.26.0
+2023-09-25 14:21:47.912 [info] Extensions: Installed extension. github.vscode-pull-request-github 0.72.0
+2023-09-25 14:21:47.912 [info] Extensions: Installed extension. aaron-bond.better-comments 3.0.2
+2023-09-25 14:21:47.912 [info] Extensions: Installed extension. github.copilot-chat 0.7.1
+2023-09-25 14:21:47.912 [info] Extensions: Installed extension. github.copilot 1.115.430
+2023-09-25 14:21:47.913 [info] Extensions: Installed extension. ms-vscode.powershell 2023.6.0
+2023-09-25 14:21:47.918 [info] Extensions: Updated last synchronized extensions.
+2023-09-25 14:21:47.919 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-25 14:21:47.921 [info] Profiles: Updated last synchronized profiles.
+2023-09-25 14:21:47.922 [info] Sync done. Took 4354ms
+2023-09-25 14:21:47.925 [info] Auto Sync: Triggered by Interval
+2023-09-25 14:21:47.925 [info] Sync started.
+2023-09-25 14:21:48.062 [info] Settings: No changes found during synchronizing settings.
+2023-09-25 14:21:48.064 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-25 14:21:48.066 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-25 14:21:48.068 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-25 14:21:48.206 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService,workbench.activity.pinnedViewlets2.
+2023-09-25 14:21:48.208 [info] GlobalState: Updated last synchronized ui state
+2023-09-25 14:21:48.241 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-25 14:21:48.242 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-25 14:21:48.244 [info] Sync done. Took 319ms
+2023-09-25 14:21:51.149 [info] Auto Sync: Triggered by Activity
+2023-09-25 14:21:51.149 [info] Sync started.
+2023-09-25 14:21:51.200 [info] Settings: No changes found during synchronizing settings.
+2023-09-25 14:21:51.208 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-25 14:21:51.211 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-25 14:21:51.213 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-25 14:21:51.341 [info] GlobalState: Updated remote ui state. Updated: memento/gettingStartedService,workbench.activity.pinnedViewlets2,workbench.welcomePage.walkthroughMetadata.
+2023-09-25 14:21:51.350 [info] GlobalState: Updated last synchronized ui state
+2023-09-25 14:21:51.393 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-25 14:21:51.393 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-25 14:21:51.394 [info] Sync done. Took 246ms
+2023-09-25 14:22:07.652 [info] Auto Sync: Triggered by Activity
+2023-09-25 14:22:07.652 [info] Sync started.
+2023-09-25 14:22:07.707 [info] Settings: No changes found during synchronizing settings.
+2023-09-25 14:22:07.710 [info] Keybindings: No changes found during synchronizing keybindings.
+2023-09-25 14:22:07.714 [info] Snippets: No changes found during synchronizing snippets.
+2023-09-25 14:22:07.715 [info] Tasks: No changes found during synchronizing tasks.
+2023-09-25 14:22:07.717 [info] GlobalState: No changes found during synchronizing ui state.
+2023-09-25 14:22:07.759 [info] Extensions: No changes found during synchronizing extensions.
+2023-09-25 14:22:07.759 [info] Profiles: No changes found during synchronizing profiles.
+2023-09-25 14:22:07.760 [info] Sync done. Took 109ms
+2023-09-25 14:22:11.465 [info] Auto Sync: Suspended until auth token is available.
+2023-09-25 14:22:11.465 [info] Auto Sync: Stopped

@@ -1,0 +1,10 @@
+2023-09-25 14:27:07.168 [info] Uninstalling extension from the profile: ms-vscode.powershell@2023.6.0 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 14:27:07.191 [info] Marked extension as uninstalled ms-vscode.powershell-2023.6.0
+2023-09-25 14:27:07.291 [info] Successfully uninstalled extension from the profile ms-vscode.powershell@2023.6.0 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 14:31:08.610 [info] Getting Manifest... rust-lang.rust-analyzer
+2023-09-25 14:31:08.617 [info] Installing extension: rust-lang.rust-analyzer
+2023-09-25 14:31:09.677 [info] Extension signature verification is not done: rust-lang.rust-analyzer
+2023-09-25 14:31:09.907 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1673-linux-x64: rust-lang.rust-analyzer
+2023-09-25 14:31:09.915 [info] Renamed to /home/daniel/.vscode-oss/extensions/rust-lang.rust-analyzer-0.3.1673-linux-x64
+2023-09-25 14:31:09.916 [info] Extracting extension completed. rust-lang.rust-analyzer
+2023-09-25 14:31:09.921 [info] Extension installed successfully: rust-lang.rust-analyzer

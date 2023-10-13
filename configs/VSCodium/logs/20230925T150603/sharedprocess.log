@@ -1,0 +1,54 @@
+2023-09-25 15:38:48.107 [info] Getting Manifest... github.copilot-chat
+2023-09-25 15:38:48.147 [info] Installing extension: github.copilot-chat
+2023-09-25 15:38:48.579 [info] Extension signature verification is not done: github.copilot-chat
+2023-09-25 15:38:48.668 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.2023090101: github.copilot-chat
+2023-09-25 15:38:48.670 [info] Renamed to /home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.2023090101
+2023-09-25 15:38:48.674 [info] Extracting extension completed. github.copilot-chat
+2023-09-25 15:38:48.681 [info] Extension installed successfully: github.copilot-chat
+2023-09-25 15:38:48.683 [info] Marked extension as uninstalled github.copilot-chat-0.7.1
+2023-09-25 16:44:00.675 [info] Getting Manifest... github.copilot-chat
+2023-09-25 16:44:00.683 [info] Installing extension: github.copilot-chat
+2023-09-25 16:44:00.817 [info] Extension signature verification is not done: github.copilot-chat
+2023-09-25 16:44:00.819 [info] Removed the extension from uninstalled list: github.copilot-chat
+2023-09-25 16:44:00.823 [info] Extracting extension completed. github.copilot-chat
+2023-09-25 16:44:00.828 [info] Extension installed successfully: github.copilot-chat
+2023-09-25 16:44:00.829 [info] Marked extension as uninstalled github.copilot-chat-0.7.2023090101
+2023-09-25 16:52:21.596 [info] Getting Manifest... github.copilot-labs
+2023-09-25 16:52:21.603 [info] Installing extension: github.copilot-labs
+2023-09-25 16:52:22.296 [info] Extension signature verification is not done: github.copilot-labs
+2023-09-25 16:52:22.411 [info] Extracted extension to file:///home/daniel/.vscode-oss/extensions/github.copilot-labs-0.15.1019: github.copilot-labs
+2023-09-25 16:52:22.414 [info] Renamed to /home/daniel/.vscode-oss/extensions/github.copilot-labs-0.15.1019
+2023-09-25 16:52:22.415 [info] Extracting extension completed. github.copilot-labs
+2023-09-25 16:52:22.420 [info] Extension installed successfully: github.copilot-labs
+2023-09-25 16:52:31.036 [info] Uninstalling extension from the profile: github.copilot-chat@0.7.1 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:52:31.045 [info] Uninstalling extension from the profile: github.copilot@1.115.430 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:52:31.045 [info] Extensions is already requested to uninstall github.copilot-chat
+2023-09-25 16:52:31.046 [info] Extensions is already requested to uninstall github.copilot
+2023-09-25 16:52:31.058 [info] Marked extension as uninstalled github.copilot-chat-0.7.1
+2023-09-25 16:52:31.062 [info] Marked extension as uninstalled github.copilot-1.115.430
+2023-09-25 16:52:31.164 [info] Successfully uninstalled extension from the profile github.copilot-chat@0.7.1 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:52:31.211 [info] Successfully uninstalled extension from the profile github.copilot@1.115.430 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:52:42.623 [info] Getting Manifest... github.copilot-chat
+2023-09-25 16:52:42.628 [info] Installing extension: github.copilot-chat
+2023-09-25 16:52:42.865 [info] Getting Manifest... github.copilot
+2023-09-25 16:52:42.926 [info] Installing extension: github.copilot github.copilot-chat
+2023-09-25 16:52:42.974 [info] Extension signature verification is not done: github.copilot
+2023-09-25 16:52:42.977 [info] Removed the extension from uninstalled list: github.copilot
+2023-09-25 16:52:43.029 [info] Extension signature verification is not done: github.copilot-chat
+2023-09-25 16:52:43.031 [info] Removed the extension from uninstalled list: github.copilot-chat
+2023-09-25 16:52:43.041 [info] Extension installed successfully: github.copilot
+2023-09-25 16:52:43.041 [info] Extension installed successfully: github.copilot-chat
+2023-09-25 16:54:13.424 [info] Uninstalling extension from the profile: github.copilot-labs@0.15.1019 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:54:13.445 [info] Marked extension as uninstalled github.copilot-labs-0.15.1019
+2023-09-25 16:54:13.504 [info] Successfully uninstalled extension from the profile github.copilot-labs@0.15.1019 vscode-userdata:/home/daniel/.vscode-oss/extensions/extensions.json
+2023-09-25 16:54:23.696 [info] Getting Manifest... github.copilot-labs
+2023-09-25 16:54:23.703 [info] Installing extension: github.copilot-labs
+2023-09-25 16:54:23.834 [info] Extension signature verification is not done: github.copilot-labs
+2023-09-25 16:54:23.837 [info] Removed the extension from uninstalled list: github.copilot-labs
+2023-09-25 16:54:23.849 [info] Extension installed successfully: github.copilot-labs
+2023-09-25 16:57:33.751 [info] Getting Manifest... github.copilot-chat
+2023-09-25 16:57:33.754 [info] Installing extension: github.copilot-chat
+2023-09-25 16:57:33.887 [info] Extension signature verification is not done: github.copilot-chat
+2023-09-25 16:57:33.888 [info] Removed the extension from uninstalled list: github.copilot-chat
+2023-09-25 16:57:33.898 [info] Extension installed successfully: github.copilot-chat
+2023-09-25 16:57:33.901 [info] Marked extension as uninstalled github.copilot-chat-0.7.1

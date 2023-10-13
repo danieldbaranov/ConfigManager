@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "vim.visualModeKeyBindings": [
+
+    ],
+    "vim.normalModeKeyBindings": [
+        {
+            "before" : ["<leader>","e"],
+            "commands" : ["workbench.view.explorer"]
+        }
+    ],
+    "vim.leader": " ",
+    "github.copilot.advanced": {}
+}

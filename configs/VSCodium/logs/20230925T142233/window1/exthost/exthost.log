@@ -1,0 +1,46 @@
+2023-09-25 14:22:34.649 [info] Extension host with pid 28726 started
+2023-09-25 14:22:34.677 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-25 14:22:34.679 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-09-25 14:22:34.726 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-25 14:22:34.737 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-25 14:22:34.745 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-25 14:22:34.773 [info] Eager extensions activated
+2023-09-25 14:22:34.785 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:34.786 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:34.790 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:34.794 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:34.842 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:34.863 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-09-25 14:22:35.230 [error] Activating extension GitHub.copilot-chat failed due to an error:
+2023-09-25 14:22:35.230 [error] Error: Extension 'GitHub.copilot-chat' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.copilot-chat
+    at _ (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:80206)
+    at Object.onDidWriteTerminalData (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:36973)
+    at t.installTerminalBufferListeners (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1300262)
+    at new t.PromptContextModel (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1329530)
+    at Y (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1606250)
+    at e.activate (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1607504)
+    at y._activate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+    at y._waitForDepsThenActivate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+    at y._initialize (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168)
+2023-09-25 14:22:35.236 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-25 14:22:35.241 [error] Canceled: Canceled
+    at new d (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:64223)
+    at i._remoteCall (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13748)
+    at Proxy.U.<computed>.F.charCodeAt.U.<computed> (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:10288)
+    at r._doExecuteCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:94560)
+    at r.executeCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:93885)
+    at l.registerCommand.description (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:93126)
+    at r._executeContributedCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:95195)
+    at r._doExecuteCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:94018)
+    at r.executeCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:93885)
+    at Object.executeCommand (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:27416)
+    at rejectionHandler (/home/daniel/.vscode-oss/extensions/github.copilot-1.115.430/extension/src/extension.ts:121:22)
+    at tryActivation (/home/daniel/.vscode-oss/extensions/github.copilot-1.115.430/extension/src/extension.ts:131:13)
+    at activate (/home/daniel/.vscode-oss/extensions/github.copilot-1.115.430/extension/src/extension.ts:177:5)
+    at y._activate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+    at y._waitForDepsThenActivate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+    at y._initialize (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168) setContext undefined
+2023-09-25 14:22:35.241 [error] Error: ENOENT: no such file or directory, open '/home/daniel/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+2023-09-25 14:22:35.241 [info] Extension host with pid 28726 exiting with code 0

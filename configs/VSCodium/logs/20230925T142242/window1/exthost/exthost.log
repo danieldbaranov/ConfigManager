@@ -1,0 +1,45 @@
+2023-09-25 14:22:43.489 [info] Extension host with pid 28921 started
+2023-09-25 14:22:43.515 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-09-25 14:22:43.518 [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+2023-09-25 14:22:43.569 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-09-25 14:22:43.584 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-09-25 14:22:43.593 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-09-25 14:22:43.624 [info] Eager extensions activated
+2023-09-25 14:22:43.634 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:43.635 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:43.639 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:43.642 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:43.687 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:43.708 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onStartupFinished', root cause: GitHub.vscode-pull-request-github
+2023-09-25 14:22:44.079 [error] Activating extension GitHub.copilot-chat failed due to an error:
+2023-09-25 14:22:44.079 [error] Error: Extension 'GitHub.copilot-chat' CANNOT use API proposal: terminalDataWriteEvent.
+Its package.json#enabledApiProposals-property declares:  but NOT terminalDataWriteEvent.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.copilot-chat
+    at _ (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:80206)
+    at Object.onDidWriteTerminalData (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:36973)
+    at t.installTerminalBufferListeners (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1300262)
+    at new t.PromptContextModel (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1329530)
+    at Y (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1606250)
+    at e.activate (/home/daniel/.vscode-oss/extensions/github.copilot-chat-0.7.1/dist/extension.js:2:1607504)
+    at y._activate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+    at y._waitForDepsThenActivate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+    at y._initialize (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168)
+2023-09-25 14:22:44.089 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2023-09-25 14:22:44.156 [error] Activating extension GitHub.vscode-pull-request-github failed due to an error:
+2023-09-25 14:22:44.156 [error] Error: Extension 'GitHub.vscode-pull-request-github' CANNOT use API proposal: readonlyMessage.
+Its package.json#enabledApiProposals-property declares: contribCommentThreadAdditionalMenu, tokenInformation, contribShareMenu, contribCommentPeekContext, codiconDecoration, diffCommand but NOT readonlyMessage.
+ The missing proposal MUST be added and you must start in extension development mode or use the following command line switch: --enable-proposed-api GitHub.vscode-pull-request-github
+    at _ (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:105:80206)
+    at _.registerFileSystemProvider (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:109:25842)
+    at Object.registerFileSystemProvider (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:122:44601)
+    at F0 (/home/daniel/.vscode-oss/extensions/github.vscode-pull-request-github-0.72.0/dist/extension.js:1818:8055)
+    at I0 (/home/daniel/.vscode-oss/extensions/github.vscode-pull-request-github-0.72.0/dist/extension.js:1818:5533)
+    at y._activate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7862)
+    at y._waitForDepsThenActivate (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7804)
+    at y._initialize (/opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:107:7168)
+2023-09-25 14:22:44.567 [error] Error: ENOENT: no such file or directory, open '/home/daniel/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+2023-09-25 14:22:45.597 [info] ExtensionService#_doActivateExtension ms-vscode.powershell, startup: false, activationEvent: 'onView:PowerShellCommands'
+2023-09-25 14:22:53.577 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-09-25 14:24:08.501 [info] Extension host terminating: renderer closed the MessagePort
+2023-09-25 14:24:08.508 [error] Error: ENOENT: no such file or directory, open '/home/daniel/.config/VSCodium/User/globalStorage/vscodevim.vim/.registers'
+2023-09-25 14:24:08.508 [info] Extension host with pid 28921 exiting with code 0

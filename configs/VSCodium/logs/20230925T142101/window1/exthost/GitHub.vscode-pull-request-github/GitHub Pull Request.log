@@ -1,0 +1,5 @@
+2023-09-25 14:21:48.800 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 14:21:48.800 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/daniel/.config/VSCodium/User/globalStorage/github.vscode-pull-request-github/temp'
+2023-09-25 14:21:48.805 [info] Looking for git repository
+2023-09-25 14:21:48.805 [info] Found 0 repositories during activation
+2023-09-25 14:21:48.806 [info] Registering git provider

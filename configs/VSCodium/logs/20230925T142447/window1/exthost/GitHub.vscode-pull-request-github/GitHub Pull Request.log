@@ -1,0 +1,9 @@
+2023-09-25 14:24:48.591 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 14:24:48.660 [info] Looking for git repository
+2023-09-25 14:24:48.660 [info] Found 0 repositories during activation
+2023-09-25 14:24:54.807 [info] Registering git provider
+2023-09-25 14:24:54.859 [info] Repository file:///home/daniel/Projects/rust_ray_tracer has been opened
+2023-09-25 14:27:12.071 [warning] /home/daniel/.ssh/config: ENOENT: no such file or directory, open '/home/daniel/.ssh/config'
+2023-09-25 14:27:12.130 [info] Looking for git repository
+2023-09-25 14:27:12.130 [info] Found 0 repositories during activation
+2023-09-25 14:27:12.130 [info] Registering git provider

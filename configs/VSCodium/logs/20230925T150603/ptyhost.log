@@ -1,0 +1,15 @@
+2023-09-25 15:38:53.988 [info] Expanding terminal instance, old id 42ca46ac22a36f5c2bf9c0955a0a2565-1 -> new id undefined
+2023-09-25 15:38:54.288 [info] Persistent process reconnection "1"
+2023-09-25 15:38:54.306 [info] Persistent process "1": Replaying 1518 chars and 1 size events
+2023-09-25 16:44:05.486 [info] Expanding terminal instance, old id 42ca46ac22a36f5c2bf9c0955a0a2565-1 -> new id undefined
+2023-09-25 16:44:05.821 [info] Persistent process reconnection "1"
+2023-09-25 16:44:05.837 [info] Persistent process "1": Replaying 304 chars and 1 size events
+2023-09-25 16:52:34.488 [info] Expanding terminal instance, old id 42ca46ac22a36f5c2bf9c0955a0a2565-1 -> new id undefined
+2023-09-25 16:52:34.981 [info] Persistent process reconnection "1"
+2023-09-25 16:52:34.985 [info] Persistent process "1": Replaying 304 chars and 1 size events
+2023-09-25 16:54:15.459 [info] Expanding terminal instance, old id 42ca46ac22a36f5c2bf9c0955a0a2565-1 -> new id undefined
+2023-09-25 16:54:16.195 [info] Persistent process reconnection "1"
+2023-09-25 16:54:16.259 [info] Persistent process "1": Replaying 304 chars and 1 size events
+2023-09-25 16:57:35.804 [info] Expanding terminal instance, old id 42ca46ac22a36f5c2bf9c0955a0a2565-1 -> new id undefined
+2023-09-25 16:57:36.176 [info] Persistent process reconnection "1"
+2023-09-25 16:57:36.178 [info] Persistent process "1": Replaying 304 chars and 1 size events

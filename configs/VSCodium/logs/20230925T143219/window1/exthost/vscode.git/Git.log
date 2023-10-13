@@ -1,0 +1,25 @@
+2023-09-25 14:32:21.612 [info] Log level: Info
+2023-09-25 14:32:21.612 [info] Validating found git in: "git"
+2023-09-25 14:32:21.612 [info] Using git "2.42.0" from "git"
+2023-09-25 14:32:21.612 [info] > git rev-parse --show-toplevel [9ms]
+2023-09-25 14:32:21.612 [info] > git rev-parse --git-dir --git-common-dir [76ms]
+2023-09-25 14:32:21.612 [info] Open repository: /home/daniel/Projects/rust_ray_tracer
+2023-09-25 14:32:21.614 [info] > git rev-parse --show-toplevel [41ms]
+2023-09-25 14:32:21.615 [info] > git config --get commit.template [47ms]
+2023-09-25 14:32:21.669 [info] > git rev-parse --show-toplevel [15ms]
+2023-09-25 14:32:21.699 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [32ms]
+2023-09-25 14:32:21.708 [info] > git status -z -uall [2ms]
+2023-09-25 14:32:21.712 [info] > git rev-parse --show-toplevel [14ms]
+2023-09-25 14:32:21.736 [info] > git show --textconv :src/main.rs [17ms]
+2023-09-25 14:32:21.736 [info] > git ls-files --stage -- /home/daniel/Projects/rust_ray_tracer/src/main.rs [9ms]
+2023-09-25 14:32:21.752 [info] > git cat-file -s c78fe94395e30621e171a32e3edb8bb531ee49e3 [9ms]
+2023-09-25 14:32:21.752 [info] > git config --get commit.template [17ms]
+2023-09-25 14:32:21.784 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2023-09-25 14:32:21.794 [info] > git status -z -uall [2ms]
+2023-09-25 14:32:22.102 [info] > git check-ignore -v -z --stdin [1ms]
+2023-09-25 14:32:36.357 [info] > git show --textconv :src/color.rs [8ms]
+2023-09-25 14:32:36.358 [info] > git ls-files --stage -- /home/daniel/Projects/rust_ray_tracer/src/color.rs [2ms]
+2023-09-25 14:32:36.367 [info] > git cat-file -s f71dcccec53ad3248ecb17ad6f5711e8f9d53fa6 [1ms]
+2023-09-25 14:32:37.598 [info] > git config --get commit.template [8ms]
+2023-09-25 14:32:37.599 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-09-25 14:32:37.607 [info] > git status -z -uall [1ms]

@@ -1,0 +1,37 @@
+[INFO] [default] [2023-09-25T20:58:11.049Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-labs-codex
+[INFO] [default] [2023-09-25T20:58:12.185Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-labs-codex/completions] took 1136 ms
+[INFO] [streamChoices] [2023-09-25T20:58:14.129Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-82mweLVJNafz9i6DsFVLWpBXZZMqP}] created: [{1695675492}]
+[ERROR] [streamChoices] [2023-09-25T20:58:14.130Z] Invalid streamingData
+[ERROR] [streamChoices] [2023-09-25T20:58:14.131Z] Invalid streamingData,joinedText:[const App = () => {
+  const [count, setCount] = useState(0);
+  const [text, setText] = useState('');
+
+  useEffect(() => {
+    console.log('useEffect called');
+  }, [count]);
+
+  return (
+    <div>
+      <button onClick={() => setCount(count + 1)}>Click me!</button>
+      <input type="text" onChange={e => setText(e.target.value)} />
+    </div>
+  );
+};
+] not a substring of joinedTokens:[]
+[INFO] [default] [2023-09-25T21:00:00.660Z] [fetchCompletions] engine https://copilot-proxy.githubusercontent.com/v1/engines/copilot-labs-codex
+[INFO] [default] [2023-09-25T21:00:01.759Z] request.response: [https://copilot-proxy.githubusercontent.com/v1/engines/copilot-labs-codex/completions] took 1099 ms
+[INFO] [streamChoices] [2023-09-25T21:00:06.776Z] solution 0 returned. finish reason: ["stop"] finishOffset: [undefined] completionId: [{cmpl-82myOxDYPsYYRajIPf6DiWhFjCxz9}] created: [{1695675600}]
+[ERROR] [streamChoices] [2023-09-25T21:00:06.776Z] Invalid streamingData
+[ERROR] [streamChoices] [2023-09-25T21:00:06.777Z] Invalid streamingData,joinedText:[ We import React and useRef hook from React. We will use the useRef hook to store the access token.
+2. We define the constants we will need to interact with the Spotify API.
+3. We define the SPOTIFY_AUTH_URL using the constants defined above and the REDIRECT_URI.
+4. We define the SPOTIFY_API_BASE_URL constant to construct the REST API URL.
+5. We define the App component.
+6. We define the accessTokenRef useRef hook to store the access token.
+7. We define the handleLogin function to redirect the user to the Spotify login page.
+8. We define the handleFetchUserInfo function to fetch the user info from Spotify API.
+9. We use the URLSearchParams API to get the authorization code from the callback URL. If the authorization code exists, we make a fetch request to obtain the access token from Spotify.
+10. We define the tokenRequestBody variable to store the request body.
+11. We make a fetch request to obtain the access token from Spotify. If the fetch request is successful, we store the access token using the accessTokenRef useRef hook.
+12. We return the JSX elements.
+13. We export the App component as the default export. ] not a substring of joinedTokens:[]
